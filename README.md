@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 ClientTrack CRM
 
-## Getting Started
+A **Next.js** CRM application for managing clients and tracking their business interactions.  
+The app uses **Tailwind CSS** for styling and currently relies on **mock data in TypeScript** as the data source.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ⭐ Features
+- Display a list of clients with key details.  
+- Create, edit, and view detailed client information.  
+- Manage interactions, notes, and activities for each client using reusable modals.  
+- Show floating notifications (toasts) for user actions.  
+- Ready-to-integrate architecture for APIs or real databases.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies Used
+- **Next.js** (App Router)  
+- **React**  
+- **Tailwind CSS**  
+- **TypeScript**  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Installation & Running
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/HenryCaicedo/client-track-crm
+   cd client-track-crm
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Install dependencies:  
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. Run the app in development mode:  
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+4. Open in your browser:  
+   ```
+   http://localhost:3000
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🖼️ Screenshots
+<img src="https://github.com/user-attachments/assets/28969b78-190d-4939-a97d-34ec6af5a8d1" width="800" /><br><br>  
+<img src="https://github.com/user-attachments/assets/9c157ade-4bdc-49bf-9503-dcddd5b67618" width="800" /><br><br>  
+<img src="https://github.com/user-attachments/assets/23f34a6c-1e5d-4071-a0f2-f8cee0e827c3" width="800" /><br><br>  
+<img src="https://github.com/user-attachments/assets/4fce8a10-b390-49ff-a7ae-b00efbc80993" width="800" /><br><br>  
+
+
+
+
